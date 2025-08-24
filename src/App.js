@@ -4,6 +4,7 @@ function App() {
   return (
     <div className="App">
      <EasePayLegal />
+     <h4>hello world</h4>
     </div>
   );
 }
